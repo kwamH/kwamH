@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Kwame! </h1>
 
-<!--
-**kwamH/kwamH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>C++ </b>
+  - [Donut Shop Console App](https://github.com/kwamH)
+ 
+- <b>Java </b>
+  - [Snake Game](https://github.com/kwamH)
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>📜 Certifications </h2>
+  -
