@@ -6,7 +6,7 @@
   - [Donut Shop Console App](https://github.com/kwamH/donutshop-app)
  
 - <b>Java </b>
-  - [Snake Game](https://github.com/kwamH)
+  - [Pokemon Pop-Up](https://github.com/kwamH)
     
 
 
