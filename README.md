@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C++ </b>
-  - [Donut Shop Console App](https://github.com/kwamH)
+  - [Donut Shop Console App](https://github.com/kwamH/donutshop-app)
  
 - <b>Java </b>
   - [Snake Game](https://github.com/kwamH)
